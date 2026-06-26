@@ -4,6 +4,8 @@ layout: default
 
 I'm a PhD candidate in the [Algorithms, Data Structures and Foundations of Machine Learning research group](https://cs.au.dk/research/algorithms-data-structures-and-foundations-of-machine-learning), advised by Prof. [Chris Schwiegelshohn](https://cs.au.dk/~schwiegelshohn/) at [Aarhus University (Department of Computer Science)](https://cs.au.dk/). My expected graduation date is August 2026.
 
+[Google Scholar](https://scholar.google.com/citations?user=SzTMW48AAAAJ&hl=en)
+
 <span style="color:red">I'm at Qualcomm AI Research until July 31, 2026.</span>
 
 
