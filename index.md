@@ -4,7 +4,7 @@ layout: default
 
 I'm a PhD candidate in the [Algorithms, Data Structures and Foundations of Machine Learning research group](https://cs.au.dk/research/algorithms-data-structures-and-foundations-of-machine-learning), advised by Prof. [Chris Schwiegelshohn](https://cs.au.dk/~schwiegelshohn/) at [Aarhus University (Department of Computer Science)](https://cs.au.dk/). My expected graduation date is August 2026.
 
-<span style="color:red">I'm looking for 2026 spring/summer internships</span>
+<span style="color:red">I'm at Qualcomm AI Research until July 31, 2026.</span>
 
 
 ## Interests/Experience
@@ -13,6 +13,8 @@ I study efficient learning at scale. I'm particularly interested in how we can g
 Previously, I've worked as a student programmer at Danske Bank on fraud detection systems, and as a junior trading analyst at Danske Commodities.
 
 ## Publications
+
+* [M+Adam: Low-Precision Training via Additive–Multiplicative Optimization](https://openreview.net/pdf?id=XgVv56Y829): X. Liang, S. Loeschcke, <span style="color:#2c5aa0;font-weight:bold;">M. Toftrup</span>, and A. Anandkumar. **ICML 2026**.
 
 * [LoQT: Low-Rank Adapters for Quantized Training](https://arxiv.org/abs/2405.16528): S. Loeschcke\*, <span style="color:#2c5aa0;font-weight:bold;">M. Toftrup</span>\*, M.J. Kastoryano, S. Belongie, and V. Snæbjarnarson. **NeurIPS 2024**.
 
